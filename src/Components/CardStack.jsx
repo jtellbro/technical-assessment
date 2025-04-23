@@ -72,7 +72,7 @@ const CardStack = ({
 
   // If there are no pokemons to show, display message instead of cards
   if (!pokemons || pokemons.length === 0) {
-    return <p className=" p-4 ">No pokémons to show</p>;
+    return <p className=" flex justify-center p-4">No pokémons to show</p>;
   }
 
   return (

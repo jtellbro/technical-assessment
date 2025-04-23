@@ -14,7 +14,6 @@ Ett litet projekt som använder PokéAPI för att visa olika Pokémons med namn,
 - React (+ Router)
 - TailwindCSS
 - localStorage
-- Vite ??
 
 ## Kör projektet
 
